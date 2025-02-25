@@ -1,0 +1,34 @@
+TODO LIST
+
+[x] calcular la media de los datos de precipitaciones por meses
+[x] Imputación de datos nulos a partir del promedio de la estaciones cercanas
+[x] Graficar lluvias
+[x] Graficar ENOS
+[x] Graficar eventos
+[x] Graficar TODO JUNTO
+[x] Grafica de cajas
+[ ] Manejo de los outliers
+[ ] Normalización de los datos
+[ ] Calcular la correlación
+
+organización
+
+Estaciones pacifico
+[charco, ccp pacifico magi mosquera y barbacoas]
+
+[serie tiempoMensual],enos -> Mensual []
+[serie tiempoMensual],cod_estacion,prepecipatciones, x Mensual []
+[serie tiempoMensual],cod_estacion,cantida_movimients_mes x DIA -> Mensual []
+
+[serie tiempoMensual],cod,estacion,enos,prepecipatciones,cantidad_movimients_mes
+120mesesx21
+
+
+
+1.1.	OBJETIVOS
+1.1.1.	Objetivo General
+Identificar la influencia de El Niño-Oscilación del Sur (ENOS) en las lluvias y los movimientos en masa en el departamento de Nariño.
+1.1.2.	Objetivos Específicos
+●	Recolectar información de las bases de datos oficiales sobre períodos de ENOS (NOAA), precipitaciones (IDEAM) y movimientos en masa (DESINVENTAR), disponibles para la zona de estudio.
+●	Estudiar la relación entre los ciclos del ENOS en sus fases extremas, movimientos en masa, y precipitaciones en el departamento de Nariño con base en la información obtenida de las diferentes bases de datos. 
+●	Determinar la influencia de los ciclos ENOS en sus fases extremas con las precipitaciones y la ocurrencia de movimientos en masa en el departamento de Nariño.
